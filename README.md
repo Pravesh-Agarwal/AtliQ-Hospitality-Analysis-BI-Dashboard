@@ -2,7 +2,7 @@
 
 As part of the Codebasics Resume Challenge, I have worked on this analysis project.
 
-Link to [Interactive Dashboard](https://www.novypro.com/project/atliq-hospitality-analysis-27)
+Link to [Interactive Dashboard](https://www.novypro.com/project/atliq-hospitality-analysis-power-bi-9)
 
 ## Problem statement
 
